@@ -1,4 +1,4 @@
-PoC's and supporting documents for the Proper Villians and Blacksun Labs sponsored "Your Mac Defenestrated: Privilege Escalated" Nolacon 2018 talk by FuzzyNop and Noncetonic.
+PoC's and supporting documents for the Proper Villians and Blacksun Labs sponsored "Your Mac Defenestrated. Post OSXploitation Elevated." Nolacon 2018 talk by FuzzyNop and Noncetonic.
 
 PoC's provided are generally not the same as those shown in live demos during the presentation. The plists are fairly neutered and provide a working example intended to be weaponized by the end-user.
 
